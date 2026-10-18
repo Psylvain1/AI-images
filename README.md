@@ -40,3 +40,7 @@ After the model is trained, the inference block of the code visualizes the resul
 * **Segmentation Masks:** A translucent blue overlay precisely highlighting the exact shape and boundaries of the pore within the bounding box. (Only predictions with a confidence score higher than 70% are displayed).
 
 This allows for automated, highly accurate quality control, porosity calculation, or visual inspection of your material surfaces.
+
+# Video Hands detection
+
+The Video folder contains the mediapipe pipeline for hands detection on video.
